@@ -1,0 +1,23 @@
+{
+  "name": "totalcare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kavinkumar-QA/TotalCare.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Kavinkumar-QA/TotalCare/issues"
+  },
+  "homepage": "https://github.com/Kavinkumar-QA/TotalCare#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "@types/node": "^22.15.14"
+  }
+}
